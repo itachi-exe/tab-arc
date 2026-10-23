@@ -1,0 +1,10 @@
+/node_modules
+/dist
+/lib
+/contracts/out
+/contracts/cache
+/out
+/cache
+*.jsonl
+/.arc-studio
+.env.local

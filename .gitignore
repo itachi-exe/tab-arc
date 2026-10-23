@@ -1,0 +1,17 @@
+.vercel
+.env*
+!.env.example
+/node_modules
+/dist
+/lib
+/contracts/out
+/contracts/cache
+/out
+/cache
+*.jsonl
+/.arc-studio
+# local dev helpers tied to one machine
+/scripts/test-signer.mjs
+/scripts/film-limit.ts
+/scripts/e2e-relay.sh
+/scripts/test-inject.js
